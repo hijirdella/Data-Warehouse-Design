@@ -29,6 +29,7 @@ This project aims to design a **Data Warehouse (DWH)** schema for both the **Sal
    - Run `Sales Data Mart.sql` to create Data Mart tables for analysis.
 
 #### 3. Schema Description
+![Sales Star Schema](https://github.com/hijirdella/Data-Warehouse-Design/blob/4a7082572abd2b507337677c802c5d3a366add33/Sales.jpg)
 1. **Fact Table**: `fact_sales`
    - Captures transactional data (e.g., quantity, price).
    - Links to dimensions via foreign keys: `store_id`, `sales_name_id`, `time_id`, `product_id`.
@@ -59,6 +60,7 @@ This project aims to design a **Data Warehouse (DWH)** schema for both the **Sal
    - Run `Employee Data Mart.sql` to create Data Mart tables for analysis.
 
 #### 3. Schema Description
+![Employee Star Schema](https://github.com/hijirdella/Data-Warehouse-Design/blob/4a7082572abd2b507337677c802c5d3a366add33/Employee.jpg)
 1. **Fact Table**: `fact_employee_performance`
    - Records employee performance metrics.
    - Links to dimensions via foreign keys: `employee_id`.
