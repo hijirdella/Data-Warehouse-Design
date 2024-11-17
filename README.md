@@ -75,7 +75,6 @@ This project aims to design a **Data Warehouse (DWH)** schema for both the **Sal
 This project demonstrates the design and implementation of scalable **Star Schema** structures for both Sales and Employee domains. By leveraging **Data Marts**, the schemas enable deep, actionable insights across key performance dimensions, supporting strategic decision-making and efficient analytics.
 
 For further inquiries, please contact **Hijir Della Wirasti** via:
-- **GitHub**: [https://github.com/hijirdella](https://github.com/hijirdella)
 - **Email**: [hijirdw@gmail.com](hijirdw@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/hijirdella/](https://www.linkedin.com/in/hijirdella/)
+- **GitHub**: [https://github.com/hijirdella](https://github.com/hijirdella)
 - **LinkedIn**: [https://www.linkedin.com/in/hijirdella/](https://www.linkedin.com/in/hijirdella/)
