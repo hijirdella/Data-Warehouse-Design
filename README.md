@@ -18,7 +18,7 @@ This project aims to design a **Data Warehouse (DWH)** schema for both the **Sal
 | `Sales Star Schema.sql`                  | SQL script for creating the Sales Star Schema.                 |
 | `Sales Star Schema.pgerd`                | ERD diagram for the Sales domain.                              |
 | `Sales Data Mart.sql`                    | SQL queries for generating Sales Data Marts.                   |
-| `[Deck] Data Warehouse Design - Sales Domain.ppt` | Slide deck for Sales domain schema design and insights.  |
+| `[Deck] Data Warehouse Design - Sales Domain.pdf` | Slide deck for Sales domain schema design and insights.  |
 
 #### 2. Instructions to Run
 1. **Create the Schema**:
@@ -49,7 +49,7 @@ This project aims to design a **Data Warehouse (DWH)** schema for both the **Sal
 | `Employee Star Schema.sql`               | SQL script for creating the Employee Star Schema.              |
 | `Employee Star Schema.pgerd`             | ERD diagram for the Employee domain.                           |
 | `Employee Data Mart.sql`                 | SQL queries for generating Employee Data Marts.                |
-| `[Deck] Data Warehouse Design - Employee Domain.ppt` | Slide deck for Employee domain schema design and insights. |
+| `[Deck] Data Warehouse Design - Employee Domain.pdf` | Slide deck for Employee domain schema design and insights. |
 
 #### 2. Instructions to Run
 1. **Create the Schema**:
