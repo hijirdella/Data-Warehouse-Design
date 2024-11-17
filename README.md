@@ -76,4 +76,6 @@ This project demonstrates the design and implementation of scalable **Star Schem
 
 For further inquiries, please contact **Hijir Della Wirasti** via:
 - **GitHub**: [https://github.com/hijirdella](https://github.com/hijirdella)
+- **Email**: [hijirdw@gmail.com](hijirdw@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/hijirdella/](https://www.linkedin.com/in/hijirdella/)
 - **LinkedIn**: [https://www.linkedin.com/in/hijirdella/](https://www.linkedin.com/in/hijirdella/)
